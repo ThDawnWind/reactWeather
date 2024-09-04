@@ -1,0 +1,24 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_525">
+			<rect rx="0.500000" width="47.000000" height="47.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="24.000002" y1="6.000000" x2="24.000002" y2="28.000000" id="paint_linear_2_528_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9FC7FF"/>
+			<stop offset="1.000000" stop-color="#9BC1F5"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(10.7539 -24.6966) rotate(-90) scale(20.9574 6.69705)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_2_529_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#486DA8" stop-opacity="0.400000"/>
+			<stop offset="1.000000" stop-color="#486DA8" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<rect rx="-0.500000" width="47.000000" height="47.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_525)">
+		<path d="M14.21 32.92L12.11 37.92C11.79 38.68 12.15 39.56 12.92 39.88C13.68 40.2 14.56 39.84 14.88 39.08L16.98 34.08C17.3 33.32 16.94 32.44 16.18 32.12C15.41 31.8 14.53 32.16 14.21 32.92ZM30.21 32.92L28.11 37.92C27.79 38.68 28.15 39.56 28.92 39.88C29.68 40.2 30.56 39.84 30.88 39.08L32.98 34.08C33.3 33.32 32.94 32.44 32.18 32.12C31.41 31.8 30.53 32.16 30.21 32.92ZM22.21 30.92L20.11 35.92C19.79 36.68 20.15 37.56 20.92 37.88C21.68 38.2 22.56 37.84 22.88 37.08L24.98 32.08C25.3 31.32 24.94 30.44 24.18 30.12C23.41 29.8 22.53 30.16 22.21 30.92Z" fill="#66AFEB" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M14 28C9.58 28 6 24.41 6 20C6 15.58 9.58 12 14 12C14.83 12 15.63 12.12 16.39 12.36C17.51 8.67 20.94 6 25 6C29.97 6 34 10.03 34 15C34 15.47 33.96 15.93 33.89 16.37C34.55 16.13 35.25 16 36 16C39.31 16 42 18.68 42 22C42 25.31 39.31 28 36 28L14 28Z" fill="url(#paint_linear_2_528_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M16 15C16 19.96 20.03 24 25 24C29.5 24 33.23 20.69 33.89 16.37C34.55 16.13 35.25 16 36 16C39.31 16 42 18.68 42 22C42 25.31 39.31 28 36 28L14 28C9.58 28 6 24.41 6 20C6 15.58 9.58 12 14 12C14.83 12 15.63 12.12 16.39 12.36C16.13 13.19 16 14.08 16 15Z" fill="url(#paint_radial_2_529_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

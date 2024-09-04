@@ -1,0 +1,25 @@
+$main-color: rgb(255, 255, 255);
+$bg-color: #1f00f1;
+$box-shadow: 2px 5px 25px -3px rgb(255, 255, 255);
+$dark: #232222;
+
+$body-background-dark: #000000;
+$body-background-blue: #1f00f1;
+
+:root {
+    --main-color: #{$main-color};
+    --bg-color: #{$bg-color};
+    --dark-color: #{$dark};
+    --body-background-dark: #{$body-background-dark};
+    --body-background-blue: #{$body-background-blue};
+}
+
+body.light {
+    --body-background: var(--body-background-blue);
+    background-color: var(--body-background);
+}
+
+body.dark {
+    --body-background: var(--body-background-dark);
+    background-color: var(--body-background);
+}

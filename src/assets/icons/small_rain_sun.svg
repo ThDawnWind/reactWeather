@@ -1,0 +1,30 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_530">
+			<rect rx="0.500000" width="47.000000" height="47.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="40.000000" y1="7.999997" x2="28.783199" y2="19.072319" id="paint_linear_2_532_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB301"/>
+			<stop offset="1.000000" stop-color="#FFC533"/>
+		</linearGradient>
+		<linearGradient x1="21.999998" y1="12.000000" x2="21.999998" y2="34.000000" id="paint_linear_2_535_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9FC7FF"/>
+			<stop offset="1.000000" stop-color="#9BC1F5"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(15.0679 -22.6966) rotate(-90) scale(20.9574 6.69705)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_2_536_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#486DA8" stop-opacity="0.400000"/>
+			<stop offset="1.000000" stop-color="#486DA8" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<rect rx="-0.500000" width="47.000000" height="47.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_530)">
+		<path d="M40 16C40 20.41 36.41 24 32 24C27.58 24 24 20.41 24 16C24 11.58 27.58 8 32 8C36.41 8 40 11.58 40 16Z" fill="url(#paint_linear_2_532_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path d="M30.96 1.45L31.48 4.41C31.82 6.38 28.87 6.9 28.52 4.93L28 1.97C27.65 0.01 30.61 -0.52 30.96 1.45ZM41.54 4.98L39.82 7.44C38.67 9.07 36.22 7.35 37.36 5.71L39.08 3.26C40.23 1.62 42.69 3.34 41.54 4.98ZM20.98 6.45L23.44 8.17C25.08 9.32 23.36 11.77 21.72 10.63L19.26 8.91C17.62 7.76 19.34 5.3 20.98 6.45ZM42.28 21.36L44.74 23.08C46.37 24.23 44.65 26.69 43.02 25.54L40.56 23.82C38.92 22.67 40.64 20.21 42.28 21.36ZM46.54 14.95L43.58 15.47C41.61 15.82 41.09 12.87 43.06 12.52L46.02 12C47.99 11.65 48.51 14.61 46.54 14.95Z" fill="#FFB300" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M14.21 38.92L12.11 43.92C11.79 44.68 12.15 45.56 12.92 45.88C13.68 46.2 14.56 45.85 14.88 45.08L16.98 40.08C17.3 39.32 16.94 38.44 16.18 38.12C15.41 37.8 14.53 38.16 14.21 38.92ZM24.21 36.92L22.11 41.92C21.79 42.68 22.15 43.56 22.92 43.88C23.68 44.2 24.56 43.85 24.88 43.08L26.98 38.08C27.3 37.32 26.94 36.44 26.18 36.12C25.41 35.8 24.53 36.16 24.21 36.92Z" fill="#66AFEB" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M12 34C7.58 34 4 30.41 4 26C4 21.58 7.58 18 12 18C12.83 18 13.63 18.12 14.39 18.36C15.51 14.68 18.94 12 23 12C27.97 12 32 16.03 32 21C32 21.47 31.96 21.93 31.89 22.38C32.55 22.13 33.25 22 34 22C37.31 22 40 24.68 40 28C40 31.31 37.31 34 34 34L12 34Z" fill="url(#paint_linear_2_535_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M14 21C14 25.97 18.03 30 23 30C27.5 30 31.23 26.69 31.89 22.38C32.55 22.13 33.25 22 34 22C37.31 22 40 24.68 40 28C40 31.31 37.31 34 34 34L12 34C7.58 34 4 30.41 4 26C4 21.58 7.58 18 12 18C12.83 18 13.63 18.12 14.39 18.36C14.13 19.19 14 20.08 14 21Z" fill="url(#paint_radial_2_536_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

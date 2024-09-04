@@ -1,0 +1,33 @@
+.app {
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.content {
+  position: relative;
+  padding: 20px;
+  width: 1450px;
+  height: 750px;
+  margin: 0 auto;
+  margin-top: 70px;
+  box-shadow: 5px rgb(251, 251, 251);
+  z-index: 2;
+}
+
+.weather-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.forecast-content {
+  box-shadow: 50px rgb(251, 251, 251);
+  margin-top: 30px;
+}
+
+.cloud_bg {
+  position: absolute;
+  width: 449px;
+  height: 206px;
+  left: 1311px;
+  z-index: 0;
+}

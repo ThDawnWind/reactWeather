@@ -1,0 +1,65 @@
+@import '../../styles/variables';
+
+.app__header {
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+
+
+    &_block {
+        padding: 0 0 0 50px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &_title {
+        color: $main-color;
+        font-size: 25px;
+        padding-right: 85px;
+    }
+
+    &_iconTheme {
+        color: $main-color;
+        cursor: pointer;
+
+        :hover {
+            scale: 1.1;
+        }
+    }
+
+
+    &_city-selector {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        border-radius: 10px;
+    }
+
+    &_icon {
+        display: flex;
+        align-items: center;
+        color: $main-color;
+    }
+
+    &_select {
+        background-color: transparent;
+        border: 1px solid #ffffff;
+        color: #ffffff;
+        padding: 5px;
+        font-size: 16px;
+
+        option {
+            background-color: transparent;
+            color: #000000;
+        }
+    }
+
+    &_drop {
+        width: 33.33px;
+        height: 55.71px;
+        color: #ffffff;
+    }
+
+
+}

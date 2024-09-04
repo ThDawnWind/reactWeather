@@ -1,0 +1,67 @@
+@import '../../styles/variables';
+
+.btncontainer {
+    display: inline;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: var(#{--body-background-default});
+
+    &__btns {
+        width: 144px;
+        border-radius: 5px;
+        border: $main-color solid 1px;
+        background: transparent;
+        color: $main-color;
+        font-family: Montserrat;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0%;
+        text-align: left;
+        border-radius: 10px;
+    }
+}
+
+.cardscontainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    height: 248px;
+
+    &__item {
+        width: 149px;
+        height: 228px;
+        margin: 19px 0 0 28px;
+        border-radius: 10px;
+        background-color: var(#{--body-background-default});
+        padding: 17px 19px 4px 15px;
+        border: 3px solid $main-color;
+
+        h1 {
+            color: $main-color;
+            font-family: Montserrat;
+            font-size: 18px;
+            font-weight: 500;
+            line-height: 22px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin: 15px 0 10px;
+        }
+
+        h2 {
+            color: $main-color;
+            font-family: Montserrat;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 17px;
+            letter-spacing: 0%;
+            text-align: left;
+            margin-top: 7px;
+            word-wrap: break-word;
+            hyphens: auto;
+            -webkit-hyphens: auto;
+            -ms-hyphens: auto;
+        }
+    }
+}
